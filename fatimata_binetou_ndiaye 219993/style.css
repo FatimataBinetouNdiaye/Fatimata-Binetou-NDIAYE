@@ -1,0 +1,16 @@
+#fa {
+    padding: 20px;
+    background: #e8eae6ca;
+    text-align: center;
+    width: 50%;
+    border:solid 2px;
+}
+#far{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border: solid 1px;
+}
